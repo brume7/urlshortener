@@ -31,11 +31,7 @@ If you feel awesome and want to support me in a small way, please consider check
 - [Introduction](#introduction)
 - [User Story](#user-story)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Security Measures](#security-measures)
 - [Deployment](#deployment)
-- [Screenshots](#screenshots)
-- [Questions](#questions)
 
   ## Introduction
   Url Shortner is a Url Shortner application that allows users to be able to shorten urls for easy remembrance. The application was created by Oghenebrume Akpadaka (also known as Brume).
