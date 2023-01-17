@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>URL Shortener Microservice</title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn.freecodecamp.org/universal/favicons/favicon-16x16.png"
+    />
+    <link href="/public/style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <h1>URL Shortener Microservice</h1>
+    <main>
+      <section>
+        <form action="api/shorturl" method="POST">
+          <fieldset>
+            <legend>URL Shortener</legend>
+            <label for="url_input">URL:</label>
+            <input id="url_input" type="text" name="url" placeholder="https://www.freecodecamp.org/" />
+            <input type="submit" value="POST URL" />
+          </fieldset>
+        </form>
+      </section>
+      <h2>Example Usage:</h2>
+      <a href="/api/shorturl/3">
+        [this_project_url]/api/shorturl/3
+      </a>
+      <h3>Will Redirect to:</h3>
+      <p>https://forum.freecodecamp.org/</p>
+    </main>
+    <footer>
+      <p>By <a href="https://www.freecodecamp.org/">brume</a></p>
+    </footer>
+  </body>
+</html>
