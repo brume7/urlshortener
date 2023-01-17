@@ -1,6 +1,6 @@
 <h1 align="center">Url Shortner</h1>
 <div align="center">
-Welcome to Chatter, a social media application that allows users to connect and interact with each other in real-time. 
+Welcome to Url Shortner, a url shortning application that allows users to shorting url for easy use. 
 
 </div> <br>
 
