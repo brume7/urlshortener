@@ -49,4 +49,4 @@ If you feel awesome and want to support me in a small way, please consider check
 - Node: A powerful runtime environment that allows Chatter to run JavaScript code on the server-side.
 
   ## Deployment
-Url Shortner is currently deployed on Heroku and can be accessed at the following link: <br> [https://nameless-basin-36851.herokuapp.com/](https://boilerplate-project-urlshortener-1.brumeakpadaka.repl.co)
+Url Shortner is currently deployed on Replit and can be accessed at the following link: <br> [https://boilerplate-project-urlshortener-1.brumeakpadaka.repl.co](https://boilerplate-project-urlshortener-1.brumeakpadaka.repl.co)
